@@ -1,0 +1,4 @@
+ARCHIV SKUTEČNÝCH WEBP FOTOGRAFIÍ PEXELS (28 SNÍMKŮ)
+https://d2ol7oe51mr4n9.cloudfront.net/user_3J45Owuse1C9720cvhhjpt14vdZ/3263a7fe-d2d7-4d4a-b057-57c46791b454.zip
+
+Rozbalte webp fotografie do assets/images/ a FOTO-ZDROJE.txt do hlavní složky projektu.
